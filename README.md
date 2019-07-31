@@ -16,5 +16,13 @@ The mapping of numbers are as follows:
 ```
 
 The [program](NumberRecognition.m) first loads a 100 random digits from [data](data.mat).
-For instance:
+
+For instance,this is the actual handwritten 100 examples:
+
 ![alt text](img/actualNumbers.PNG)
+
+The Neural Network algorithm learns from **all examples** and predicts the handwritten numbers as:
+
+![alt text](img/predictions.PNG)
+
+With a 98% accuracy.
