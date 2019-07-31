@@ -17,4 +17,4 @@ The mapping of numbers are as follows:
 
 The [program](NumberRecognition.m) first loads a 100 random digits from [data](data.mat).
 For instance:
-![alt text](img/actualNumbers)
+![alt text](img/actualNumbers.PNG)
