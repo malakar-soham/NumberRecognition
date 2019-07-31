@@ -17,7 +17,7 @@ The mapping of numbers are as follows:
 
 The [program](NumberRecognition.m) first loads a 100 random digits from [data](data.mat).
 
-For instance,this is the actual handwritten 100 examples:
+For instance, this is one of the random actual 100 handwritten examples:
 
 ![alt text](img/actualNumbers.PNG)
 
